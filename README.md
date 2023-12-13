@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gevabriel&label=Profile%20views&color=0e75b6&style=flat" alt="muh-richo" /> </p>
 
-- 🌱 I’m currently learning **Android Developer such as Kotlin, Jetpack Compose, Firebase**
-
 - 📫 How to reach me **gibranhakim2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +22,7 @@
 
 
 
-<!--### Hi there 👋
+<!--### Hi there 👋 - 🌱 I’m currently learning **Android Developer such as Kotlin, Jetpack Compose, Firebase**
 **gevabriel/gevabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
