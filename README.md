@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **gibranhakim2@gmail.com**
 
-<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="10%" height="10%"></h3>
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="5%" height="5%"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/gibranhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gibran-hakim" height="30" width="40" /></a>
 <a href="https://instagram.com/gibranhakim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gibran-hakim" height="30" width="40" /></a>
