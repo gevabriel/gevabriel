@@ -16,7 +16,7 @@
 
 <h3 align="left">My Github Statistics<img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width ="3%" height="3%"> </h3>
 
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kylixeza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gevabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gevabriel&theme=dark&layout=compact&langs_count=4" /></p>
 
