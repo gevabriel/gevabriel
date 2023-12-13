@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Developer such as Kotlin, Jetpack Compose, Firebase**
 
-- 📫 How to reach me **muhrichoa@gmail.com**
+- 📫 How to reach me **gibranhakim2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
