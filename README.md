@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gevabriel&label=Profile%20views&color=0e75b6&style=flat" alt="gevabriel" /> </p>
 
-- 📫 Reach me at **gibranhakim2@gmail.com**
+- 📫 Reach me at :
+- gibranhakim2@gmail.com
+- [Instagram - @gibranhakim_](https://www.instagram.com/gibranhakim_/)
 
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width ="5%" height="5%"></h3>
 <p align="left">
