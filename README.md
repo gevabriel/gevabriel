@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gevabriel&label=Profile%20views&color=0e75b6&style=flat" alt="gevabriel" /> </p>
 
-<h3 align="left">Reach me</h3><br>
+<h3 align="left">Reach me</h3>
 - gibranhakim2@gmail.com <br>
 - [Instagram - @gibranhakim_](https://www.instagram.com/gibranhakim_/)<br>
 - [Linkedin - @gibranhakim](https://www.linkedin.com/in/gibranhakim/)<br>
