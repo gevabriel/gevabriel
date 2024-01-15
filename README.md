@@ -7,8 +7,8 @@
 <p align="left">
 <a href="mailto:gibranhakim2@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="gibranhakim2@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gibranhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gibranhakim" height="30" width="40" /></a>
-<a href="https://instagram.com/gibranhakim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gibranhakim_" height="30" width="40" /></a>
 <a href="https://kaggle.com/gevabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gevabriel" height="30" width="40" /></a>
+<a href="https://instagram.com/gibranhakim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gibranhakim_" height="30" width="40" /></a>
 </p>
 
 
