@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Gibran Hakim</h1>
-<h3 align="center">Undergraduate Informatics Engineering Student at Brawijaya University</h3>
+<h3 align="center">Fresh Graduate of Informatics at Universitas Brawijaya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gevabriel&label=Profile%20views&color=0e75b6&style=flat" alt="gevabriel" /> </p>
 
